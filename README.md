@@ -64,15 +64,15 @@ This project aims to provide a reliable predictive tool for the COVID-19 pandemi
 
 **5. Key Findings💡**
 
-  **Top Predictive Features**
+   **Top Predictive Features**
 
-  🌟 Changepoints: The model successfully highlighted critical changepoint dates that directly correlated with significant public events (e.g., first wave peak, holiday spikes), providing clear causal inference for trend changes.
-  🌟 Weekly Seasonality: Identified a consistent, strong weekly seasonality (lower reporting on weekends), which is crucial for accurate short-term predictions.
+   🌟 Changepoints: The model successfully highlighted critical changepoint dates that directly correlated with significant public events (e.g., first wave peak, holiday spikes), providing clear causal inference for trend changes.
+   🌟 Weekly Seasonality: Identified a consistent, strong weekly seasonality (lower reporting on weekends), which is crucial for accurate short-term predictions.
 
-**Data Quality Insights**
+  **Data Quality Insights**
 
-  👉 Data Consistency: Prophet's robustness was beneficial in handling reporting lags and noise inherent in daily public health data.
-  👉 Trend Flexibility: Demonstrated that a simple linear model is insufficient for pandemic data and that Prophet's piecewise linear trend is necessary.
+   👉 Data Consistency: Prophet's robustness was beneficial in handling reporting lags and noise inherent in daily public health data.
+   👉 Trend Flexibility: Demonstrated that a simple linear model is insufficient for pandemic data and that Prophet's piecewise linear trend is necessary.
 
 **6. Business Applications 💼**
 
