@@ -53,9 +53,13 @@ This project aims to provide a reliable predictive tool for the COVID-19 pandemi
  **Methodology**
 
    ✅ Data Preprocessing: Transforming the source data into the Prophet-required format (ds for datetime, y for metric value). 🧼
+   
    ✅ Changepoint Configuration: Manually setting changepoints or allowing Prophet's automatic detection to locate sudden trend changes. 🔎
+   
    ✅ Seasonality and Holiday Modeling: Incorporating weekly and yearly seasonality and defining custom events as "holidays" to model their unique impact.
+   
    ✅ Model Fitting and Evaluation: Training the model on historical data and evaluating its fit and cross-validation performance.
+   
    ✅ Forecasting and Visualization: Generating future predictions and using Plotly for rich, interactive plots of the forecast and its components. 🚀
 
 **5. Key Findings💡**
