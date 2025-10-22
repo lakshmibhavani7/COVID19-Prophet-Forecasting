@@ -94,6 +94,7 @@ This project aims to provide a reliable predictive tool for the COVID-19 pandemi
 
 **8. File Structure 📂**
 
+
 .
 ├── covid19_prophet.ipynb           # Primary analysis, modeling, and forecasting notebook
 ├── COVID_data.csv                  # The raw time series data file (or similar name)
